@@ -31,8 +31,6 @@ new Handler().postDelayed(new Runnable() {<br>
 <div class="row">
 <img src="https://user-images.githubusercontent.com/42957042/173641250-3be976b4-b708-4d7a-a56b-fd7b7cfcb767.png" width=200px/>
 
-&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
-
 <img src="https://user-images.githubusercontent.com/42957042/173641267-0416906f-7293-4c0d-b8df-b5c7cfec8fa4.png" width=200px/>
 
 </div>
