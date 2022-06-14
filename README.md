@@ -28,10 +28,11 @@ new Handler().postDelayed(new Runnable() {<br>
 <br>
 <br>
 
-<div class="row">
-<img src="https://user-images.githubusercontent.com/42957042/173641250-3be976b4-b708-4d7a-a56b-fd7b7cfcb767.png" width=200px/>
 
-<img src="https://user-images.githubusercontent.com/42957042/173641267-0416906f-7293-4c0d-b8df-b5c7cfec8fa4.png" width=200px/>
+<div class="row">
+<img src="https://user-images.githubusercontent.com/42957042/173646655-ddef5403-def6-4e63-8dc1-4b8b9c35a11f.png" width=300px/>
+
+<img src="https://user-images.githubusercontent.com/42957042/173646812-ffd4ac28-f5f0-4913-8b58-9dbf545b87a4.png" width=300px/>
 
 </div>
 
